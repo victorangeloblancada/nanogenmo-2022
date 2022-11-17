@@ -1,4 +1,4 @@
-# What is drunk philosophy?
+# What Is Drunk Philosophy?
 
 What is drunk philosophy?
 
