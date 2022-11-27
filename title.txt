@@ -1,0 +1,12 @@
+---
+title:
+- type: main
+  text: Drunk Philosophy
+creator:
+- role: author
+  text: Victor Blancada
+rights: © 2022 Victor Blancada
+cover-image: DrunkPhilosophyCover.jpg
+language: en-US
+description: In vino veritas, sayeth the philosopher.
+---
